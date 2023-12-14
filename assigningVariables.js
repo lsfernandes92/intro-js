@@ -12,7 +12,6 @@ console.log("const firstName = 'Lucas';");
 console.log("const lastName = 'Fernandes';");
 console.log("const fullName = firstName + ' ' + lastName;");
 console.log("let name = 'Lucas';");
-
 console.log('-----------------------------');
 
 console.log('\nInterpolation on JS can be done like');
@@ -37,5 +36,5 @@ console.log("Doing so we can re-assign our variable(bad practice). Like so:");
 console.log("\nlet name = 'Lucas';");
 console.log("name = 'Foo';");
 name = 'Foo';
-console.log(`The result for the 'name' variable is: ${name}`)
+console.log(`The result for the 'name' variable is: ${name}`);
 
